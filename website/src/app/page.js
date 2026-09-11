@@ -23,7 +23,6 @@ export default function DashboardHome() {
   const [billsOpen, setBillsOpen] = useState(true);
   const [challanOpen, setChallanOpen] = useState(true);
   const [hpseblOpen, setHpseblOpen] = useState(true);
-  const [reportsOpen, setReportsOpen] = useState(true);
   
   // User profile popup state
   const [showUserMenu, setShowUserMenu] = useState(false);
